@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bf2528e-cef4-47c8-86f3-89cffaf594f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3hu4vEdou75tIqqR0irWywVBl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nzulu\SeleniamTraining\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Form">
+    <configuration name="Datepicker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Datepicker" />
+      <module name="SeleniamTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DragAndDrop" />
+      <module name="SeleniamTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecuteJavascript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExecuteJavascript" />
+      <module name="SeleniamTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Form" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Form" />
+      <module name="SeleniamTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RadioButtons" />
+      <module name="SeleniamTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Form" />
+        <item itemvalue="Application.Datepicker" />
+        <item itemvalue="Application.RadioButtons" />
+        <item itemvalue="Application.DragAndDrop" />
+        <item itemvalue="Application.ExecuteJavascript" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf2528e-cef4-47c8-86f3-89cffaf594f8" name="Default Changelist" comment="" />
+      <created>1578384404654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578384404654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="179" key="#Project_Structure" timestamp="1578463616494">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="179" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578463616494" />
+    <state x="-1506" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578463284584">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578463284584" />
+    <state x="-1321" y="208" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1578401761532">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1321" y="208" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578401761532" />
+    <state x="-1112" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578385119051">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1112" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578385119051" />
+    <state x="-1185" y="304" key="DetectedRootsChooserDialog" timestamp="1578466691669">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1185" y="304" key="DetectedRootsChooserDialog/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578466691669" />
+    <state x="-1159" y="343" key="FileChooserDialogImpl" timestamp="1578466684205">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1159" y="343" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578466684205" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578466726337">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578466726337" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578466726337">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578466726337" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578466726336">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578466726336" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578466726337">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578466726337" />
+    <state x="-1430" y="176" key="Maven.ArtifactSearchDialog" timestamp="1578463632284">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1430" y="176" key="Maven.ArtifactSearchDialog/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578463632284" />
+    <state x="-1459" y="163" key="SettingsEditor" timestamp="1578466719340">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="163" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578466719340" />
+    <state x="-1265" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578464069492">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1265" y="345" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578464069492" />
+    <state x="-1368" y="180" key="scopes" timestamp="1578463081074">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="180" key="scopes/0.0.1536.824/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1578463081074" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniamTraining$Form.ic" NAME="Form Coverage Results" MODIFIED="1578463832036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
